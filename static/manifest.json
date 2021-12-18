@@ -1,0 +1,31 @@
+{
+  "id": "Snake",
+  "name": "Snake",
+  "short_name": "Snake",
+  "theme_color": "#1cd482",
+  "background_color": "#1cd482",
+  "display": "fullscreen",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icons/snake-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/snake-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/snake-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/snake-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
